@@ -20,14 +20,10 @@
 
 ### About me
 
-I'm Lakshmi H, an MCA graduate (2026) from Saintgits College
-of Engineering, Kottayam, Kerala. I enjoy building web apps
-that solve real problems — from a platform connecting home
-cooks with local customers to a real-time collaborative coding
-tool. I have completed internships in React development and
-Machine Learning, and I am now actively looking for my first
-full-time Software Developer role in Kerala where I can grow
-fast and contribute meaningfully to a good team.
+I am a final year MCA student at Saintgits College of Engineering,
+Kottayam. I build full-stack web applications and have completed
+two internships in React development and Machine Learning.
+Actively seeking fresher Software Developer roles in Kerala.
 
 - 🎓 MCA Graduate — Saintgits College of Engineering (CGPA 8.28)
 - 💼 2 internships completed (React + ML/AI)
