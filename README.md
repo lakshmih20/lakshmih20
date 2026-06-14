@@ -24,12 +24,12 @@ I'm Lakshmi H, an MCA graduate (2026) from Saintgits College
 of Engineering, Kottayam, Kerala. I enjoy building web apps
 that solve real problems — from a platform connecting home
 cooks with local customers to a real-time collaborative coding
-tool. I have completed internships in React development and
-Machine Learning, and I am now actively looking for my first
-full-time Software Developer role in Kerala.
+tool. I completed an internship in React development at Cognior
+and I am now actively looking for my first full-time Software
+Developer role in Kerala.
 
 - 🎓 MCA Graduate 2026 — Saintgits College of Engineering (CGPA 8.28)
-- 💼 2 internships completed (React + ML/AI)
+- 💼 React Engineering Intern — Cognior LLP
 - 🚀 5 full-stack projects shipped
 - 📍 Based in Kottayam, Kerala — open to Kochi, Trivandrum
 - 📧 lakshmih5675@gmail.com
@@ -79,15 +79,16 @@ Backend-driven app to manage tourism packages and bookings.
 
 ### Experience
 
-**React Engineering Intern · Cognior LLP, Cherthala**
+**React Engineering Intern · Cognior LLP**
 `Jan 2026 – Apr 2026`
-Built and maintained React components for production apps.
-Participated in code reviews, sprint planning and agile workflow.
 
-**Machine Learning & AI Intern · IHRD, Thiruvananthapuram**
-`Dec 2023 – Feb 2024`
-Completed ML & AI programme with Grade A distinction.
-Applied Python-based ML algorithms and data analysis on real datasets.
+Built a browser extension using React by integrating a provided
+SDK to deliver guided user experiences including tooltips, modals,
+and alerts on hosted websites. Developed and configured multi-step
+interactive flows using a content creator extension across
+real-world platforms.
+
+`React.js` `JavaScript` `Browser Extension` `SDK Integration`
 
 ---
 
