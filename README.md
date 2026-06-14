@@ -90,8 +90,14 @@ real-world platforms.
 
 `React.js` `JavaScript` `Browser Extension` `SDK Integration`
 
----
+**Software Development Intern · Cognior LLP**
+`May 2025 – Jun 2025`
 
+Worked on JavaScript and HTML web development tasks. Participated
+in design and code reviews, and demonstrated strong teamwork
+skills within an agile development environment.
+
+`JavaScript` `HTML` `CSS` `Code Review` `Agile`
 ### Education
 
 | Degree | Institution | Year | CGPA |
